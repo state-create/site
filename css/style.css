@@ -16,7 +16,8 @@ body{
   /* font-family: 'Montserrat', sans-serif; */
 }
 .no-gutters{
-  max-width: 1600px;
+  max-width: 1400px;
+  margin: 0 auto;
 }  
 .navigation .row{
   align-items: center;
